@@ -1,5 +1,5 @@
 # Convert multiple files
-File converter for various types, tested on linux and windows.
+File converter for various types, tested on linux and windows. It's just an update with the origin is https://github.com/ArtToledo/Convert-multiple-files can help me to my project with that the user can add their name file they want to output.
 
 ### Supported file types 
 
